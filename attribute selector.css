@@ -1,0 +1,20 @@
+input[type="text"]{
+	color:darkred;
+	background-color:lightpink;
+}
+input[ type="number"]{
+	color:lightyellow;
+	background-color:lightpink;
+	
+}
+input[ type="email"]{
+	color:skyblue;
+	background-color:lightpink;
+}
+input[ type="password"]{
+	color:darkgreen;
+	background-color:lightpink;
+}
+img[src]{
+	border-color:darkred;
+}

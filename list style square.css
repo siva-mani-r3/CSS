@@ -1,0 +1,65 @@
+.gap{
+	word-spacing:20px;
+}
+.table{
+	height:150px;
+	width:1200px;
+	text-align:left;
+	border-collapse:collapse;
+}
+.unordered{
+	list-style-type:square;
+}
+.ordered{
+	list-style-type:upper-alpha;
+}
+.form{
+	text-align:right;
+	
+
+}
+input[ type="text"]{
+	
+	background-color:lightgrey;
+}
+input[ type="text"]{
+	
+	background-color:lightgrey;
+}
+input[ type="email"]{
+	background-color:lightgrey;
+}
+input[ type="submit"]{
+	
+	background-color:lightgrey;
+}
+.finish{
+	background-color:lightgrey;
+	text-align:center;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.pretag1{
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:150px;
+	background-color:lightgrey;
+	color:grey;
+}
+.pretag2{
+	background-color:lightgrey;
+	color:black;
+	padding-left:150px;
+	padding-bottom:50px;
+	padding-top:50px;
+	
+}
+.pretag3{
+	padding-left:40px;
+	padding-right:40px;
+
+}
+.pretag4{
+	padding-left:40px;
+	
+}

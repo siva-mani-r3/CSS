@@ -1,0 +1,16 @@
+a:link{
+	color:skyblue;
+
+}
+a:visited{
+	color:darkred;
+
+}
+a:hover{
+	color:lightpink;
+	font-size:30px;
+
+}
+a:active{
+	color:lightskyblue;
+}
